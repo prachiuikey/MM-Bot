@@ -1,0 +1,266 @@
+panic: runtime error: invalid memory address or nil pointer dereference
+[signal SIGSEGV: segmentation violation code=0x2 addr=0x18 pc=0x10032a774]
+
+goroutine 1 [running]:
+main.checkDupInstance()
+	D:/pre/bits-project/bits/app.go:52 +0xc4
+main.main()
+	D:/pre/bits-project/bits/app.go:74 +0x1c
+panic: runtime error: invalid memory address or nil pointer dereference
+[signal SIGSEGV: segmentation violation code=0x2 addr=0x18 pc=0x104c5e774]
+
+goroutine 1 [running]:
+main.checkDupInstance()
+	D:/pre/bits-project/bits/app.go:52 +0xc4
+main.main()
+	D:/pre/bits-project/bits/app.go:74 +0x1c
+panic: runtime error: invalid memory address or nil pointer dereference
+[signal SIGSEGV: segmentation violation code=0x2 addr=0x18 pc=0x104276774]
+
+goroutine 1 [running]:
+main.checkDupInstance()
+	D:/pre/bits-project/bits/app.go:52 +0xc4
+main.main()
+	D:/pre/bits-project/bits/app.go:74 +0x1c
+nohup: /var/tmp/logd: No such file or directory
+nohup: /var/tmp/logd: No such file or directory
+panic: panic: runtime error: invalid memory address or nil pointer dereferencepanic: 
+[signal runtime error: invalid memory address or nil pointer dereferenceSIGSEGV: segmentation violationruntime error: invalid memory address or nil pointer dereference code=
+0x2
+ addr=[signal 0x18[signal  pc=SIGSEGV: segmentation violation0x103062774SIGSEGV: segmentation violation]
+ code= code=
+0x2goroutine  addr=10x180x2 [ pc= addr=0x10489e774running0x18]
+]:
+ pc=
+0x103206774goroutine ]
+1
+ [goroutine running1]:
+ [main.checkDupInstancerunning(]:
+)
+main.checkDupInstance	main.checkDupInstanceD:/pre/bits-project/bits/app.go(:(52)
+ +)
+	0xc4D:/pre/bits-project/bits/app.go	
+D:/pre/bits-project/bits/app.go:main.main52: +(0xc4)
+
+	main.mainD:/pre/bits-project/bits/app.go()
+:	74D:/pre/bits-project/bits/app.go +520x1c:
+ +740xc4 +
+0x1cmain.main
+()
+	D:/pre/bits-project/bits/app.go:74 +0x1c
+panic: panic: runtime error: invalid memory address or nil pointer dereferenceruntime error: invalid memory address or nil pointer dereference
+
+panic: [signal [signal SIGSEGV: segmentation violationSIGSEGV: segmentation violation code= code=runtime error: invalid memory address or nil pointer dereference0x20x2 addr=
+0x18 addr= pc=[signal 0x1031ba774SIGSEGV: segmentation violation]
+ code=0x180x2 pc= addr=0x102d467740x18]
+
+
+ pc=goroutine 0x1026967741]
+ [goroutine running
+1]:
+ [goroutine running1main.checkDupInstance]:
+( [)
+running	main.checkDupInstanceD:/pre/bits-project/bits/app.go]:
+:(52main.checkDupInstance +)
+0xc4(
+	main.mainD:/pre/bits-project/bits/app.go(:)
+)
+52	 +D:/pre/bits-project/bits/app.go:	740xc4 +D:/pre/bits-project/bits/app.go0x1c:
+
+52main.main +(0xc4)
+
+	main.mainD:/pre/bits-project/bits/app.go(:)
+74	 +D:/pre/bits-project/bits/app.go0x1c:
+74 +0x1c
+panic: runtime error: invalid memory address or nil pointer dereference
+[signal SIGSEGV: segmentation violation code=0x2 addr=0x18 pc=0x10436a774]
+
+goroutine 1 [running]:
+main.checkDupInstance(panic: runtime error: invalid memory address or nil pointer dereference
+[signal SIGSEGV: segmentation violation code=0x2 addr=)
+0x18 pc=0x102af2774]
+
+goroutine 	1D:/pre/bits-project/bits/app.go [:running52]:
+ +0xc4
+main.mainmain.checkDupInstance(()
+)
+		D:/pre/bits-project/bits/app.goD:/pre/bits-project/bits/app.go::7452 + +0x1c0xc4
+
+main.main()
+	D:/pre/bits-project/bits/app.go:74 +0x1c
+panic: runtime error: invalid memory address or nil pointer dereference
+[signal SIGSEGV: segmentation violation code=0x2 addr=0x18 pc=0x1046ae774]
+
+goroutine 1 [running]:
+main.checkDupInstance()
+	D:/pre/bits-project/bits/app.go:52 +0xc4
+main.main()
+	D:/pre/bits-project/bits/app.go:74 +0x1c
+panic: runtime error: invalid memory address or nil pointer dereference
+[signal SIGSEGV: segmentation violationpanic:  code=runtime error: invalid memory address or nil pointer dereference0x2 addr=panic: 0x18
+[signal  pc=SIGSEGV: segmentation violation0x1046aa774runtime error: invalid memory address or nil pointer dereference]
+ code=
+0x2goroutine 
+1 addr= [[signal runningSIGSEGV: segmentation violation]:
+ code=0x180x2 pc=main.checkDupInstance addr=(0x105212774)
+0x18	]
+D:/pre/bits-project/bits/app.go
+:goroutine 152 pc= +0x1031327740xc4 [
+]
+main.main
+(running)
+goroutine 	]:
+D:/pre/bits-project/bits/app.go1: [74running +]:
+0x1cmain.checkDupInstance
+(main.checkDupInstance)
+(	)
+D:/pre/bits-project/bits/app.go	:D:/pre/bits-project/bits/app.go52: +520xc4 +
+0xc4main.main
+(main.main)
+(	)
+D:/pre/bits-project/bits/app.go	:D:/pre/bits-project/bits/app.go74: +740x1c +
+0x1c
+panic: panic: panic: runtime error: invalid memory address or nil pointer dereference
+runtime error: invalid memory address or nil pointer dereferenceruntime error: invalid memory address or nil pointer dereference
+
+[signal [signal SIGSEGV: segmentation violationSIGSEGV: segmentation violation code= code=[signal 0x20x2 addr=SIGSEGV: segmentation violation0x18 addr= pc=0x180x100756774]
+ code=
+ pc=goroutine 0x210x1009c2774 [ addr=]
+running0x18]:
+
+ pc=goroutine 0x1004f6774main.checkDupInstance1(]
+ [
+)
+goroutine running1	]:
+D:/pre/bits-project/bits/app.go [:main.checkDupInstance52( +running0xc4)
+
+]:
+	main.mainD:/pre/bits-project/bits/app.go(main.checkDupInstance)
+(	:D:/pre/bits-project/bits/app.go)
+:5274	 + +D:/pre/bits-project/bits/app.go0x1c0xc4:
+
+52main.main +(0xc4)
+
+	main.mainD:/pre/bits-project/bits/app.go(:)
+74	 +D:/pre/bits-project/bits/app.go0x1c:
+74 +0x1c
+panic: panic: runtime error: invalid memory address or nil pointer dereferenceruntime error: invalid memory address or nil pointer dereference
+
+[signal [signal SIGSEGV: segmentation violationSIGSEGV: segmentation violation code= code=0x20x2 addr= addr=0x180x18 pc= pc=0x104ca2774panic: ]
+runtime error: invalid memory address or nil pointer dereference0x100f3e774
+
+]
+[signal 
+SIGSEGV: segmentation violationgoroutine  code=goroutine 0x21 addr=10x18 [ pc=running0x10473e774]:
+]
+ [
+runninggoroutine ]:
+main.checkDupInstance1( [)
+runningmain.checkDupInstance]:
+	(D:/pre/bits-project/bits/app.go)
+main.checkDupInstance:(52)
+		D:/pre/bits-project/bits/app.goD:/pre/bits-project/bits/app.go: +52: +520xc4 +
+0xc4main.main
+(0xc4)
+main.main	(D:/pre/bits-project/bits/app.go)
+:
+74	 +D:/pre/bits-project/bits/app.go0x1c:
+main.main74( +)
+0x1c	
+D:/pre/bits-project/bits/app.go:74 +0x1c
+panic: panic: panic: runtime error: invalid memory address or nil pointer dereference
+runtime error: invalid memory address or nil pointer dereferenceruntime error: invalid memory address or nil pointer dereference
+[signal [signal 
+SIGSEGV: segmentation violationSIGSEGV: segmentation violation code= code=0x20x2 addr= addr=0x18 pc=0x18[signal 0x1002a6774 pc=SIGSEGV: segmentation violation]
+ code=
+0x20x10288e774goroutine  addr=]
+10x18
+ [goroutine  pc=1running0x1003e2774 []:
+]
+running
+main.checkDupInstance]:
+(goroutine )
+main.checkDupInstance	(D:/pre/bits-project/bits/app.go)
+:	1D:/pre/bits-project/bits/app.go52: +520xc4 +
+0xc4 [
+main.mainmain.main(()
+running)
+		D:/pre/bits-project/bits/app.go]:
+D:/pre/bits-project/bits/app.go::74main.checkDupInstance74( + +)
+0x1c	0x1c
+
+D:/pre/bits-project/bits/app.go:52 +0xc4
+main.main()
+	D:/pre/bits-project/bits/app.go:74 +0x1c
+panic: panic: panic: runtime error: invalid memory address or nil pointer dereferenceruntime error: invalid memory address or nil pointer dereference
+
+[signal [signal SIGSEGV: segmentation violationSIGSEGV: segmentation violation code= code=0x20x2 addr= addr=0x180x18runtime error: invalid memory address or nil pointer dereference pc= pc=0x1008fa774
+]
+0x100c8e774
+[signal goroutine SIGSEGV: segmentation violation1 code=]
+ [
+runninggoroutine ]:
+0x21 addr= [main.checkDupInstancerunning(]:
+)
+0x18	 pc=D:/pre/bits-project/bits/app.go0x1023aa774:52]
+ +main.checkDupInstance0xc4
+
+goroutine main.main(()
+1)
+ [		D:/pre/bits-project/bits/app.gorunningD:/pre/bits-project/bits/app.go]:
+:52:main.checkDupInstance74 + +(0xc40x1c)
+
+
+main.main	(D:/pre/bits-project/bits/app.go)
+:	52D:/pre/bits-project/bits/app.go +:0xc474
+ +main.main0x1c(
+)
+	D:/pre/bits-project/bits/app.go:74 +0x1c
+panic: panic: panic: runtime error: invalid memory address or nil pointer dereferenceruntime error: invalid memory address or nil pointer dereferenceruntime error: invalid memory address or nil pointer dereference
+
+
+[signal [signal SIGSEGV: segmentation violation code=[signal SIGSEGV: segmentation violationSIGSEGV: segmentation violation code= code=0x20x2 addr=0x2 addr=0x18 addr=0x18 pc=0x180x100d32774 pc=]
+0x1011c2774
+ pc=goroutine 0x104e3e7741]
+ [
+running]
+goroutine ]:
+1
+ [goroutine running1main.checkDupInstance [(]:
+)
+running	]:
+D:/pre/bits-project/bits/app.gomain.checkDupInstance:(52main.checkDupInstance +(0xc4)
+)
+
+		main.mainD:/pre/bits-project/bits/app.go(:)
+D:/pre/bits-project/bits/app.go	52D:/pre/bits-project/bits/app.go: +:52740xc4 + +0x1c0xc4
+
+
+main.mainmain.main(()
+)
+		D:/pre/bits-project/bits/app.goD:/pre/bits-project/bits/app.go::7474 + +0x1c0x1c
+
+panic: panic: panic: runtime error: invalid memory address or nil pointer dereferenceruntime error: invalid memory address or nil pointer dereference
+
+[signal [signal runtime error: invalid memory address or nil pointer dereferenceSIGSEGV: segmentation violation
+ code=[signal SIGSEGV: segmentation violation0x2 code= addr=0x18SIGSEGV: segmentation violation pc=0x20x100b86774 addr=]
+0x18 code= pc=
+0x1009be774goroutine ]
+0x21
+ [ addr=runninggoroutine ]:
+0x181 pc= [0x102d6a774running]
+]:
+
+goroutine 1 [running]:
+main.checkDupInstancemain.checkDupInstancemain.checkDupInstance((()
+)
+)
+			D:/pre/bits-project/bits/app.goD:/pre/bits-project/bits/app.goD:/pre/bits-project/bits/app.go:::525252 + +0xc40xc4
+ +
+main.main0xc4main.main(
+(main.main)
+()
+	)
+D:/pre/bits-project/bits/app.go	:	74D:/pre/bits-project/bits/app.go +:0x1c74
+ +D:/pre/bits-project/bits/app.go0x1c:
+74 +0x1c
